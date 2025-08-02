@@ -27,7 +27,6 @@ This Java project simulates the gravitational interaction between multiple parti
 
 ```
 UniverseSimulation
-├─ 📁.idea
 ├─ 📁data
 │  └─ 📁universos
 ├─ 📁src
